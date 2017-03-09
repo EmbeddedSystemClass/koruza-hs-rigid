@@ -1,0 +1,9 @@
+DRC Rules Export File for PCB: C:\Users\vojislav\Documents\koruza-hs-rigid\koruza-hs-rigid-PCB\koruza-hs-rigid-PCB.PcbDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_diff_polygon|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=6.00
+RuleKind=Clearance|RuleName=Clearance_nets_poligon|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_diff_gnd|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_diff_gnd_pad|Scope=Board|Minimum=10.00
