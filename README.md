@@ -8,6 +8,7 @@ This board is in development and testing phase, for all information see the [sch
 
 All comments and suggestions can be added to the [Issues](https://github.com/IRNAS/koruza-hs-rigid/issues) section of the repo. For additional details see the Issue section or contact me at vojislav@irnas.eu
 
+![alt tag](https://github.com/IRNAS/koruza-hs-rigid/blob/master/Pics/3D_model.png)
 
 ---
 
