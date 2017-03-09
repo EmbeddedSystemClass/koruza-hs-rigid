@@ -1,0 +1,1 @@
+# koruza-hs-rigid
