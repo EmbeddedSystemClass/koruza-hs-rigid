@@ -1,8 +1,8 @@
 # koruza-hs-rigid
 
-Koruza-hs-rigid PCB boaard is an add on for the main [koruza-CM](https://github.com/IRNAS/koruza-compute-module) board. It us used to connect the communication/configuration signas of both SFP modules to he koruza-CM board. Also the external SFP port with the cage is mounted to that board. 
+Koruza-hs-rigid PCB board is an add-on for the main [koruza-CM](https://github.com/IRNAS/koruza-compute-module) board. It is used to connect the communication/configuration signals of both SFP modules to the koruza-CM board. Also, the external SFP port with the cage is mounted to that board. 
 
-On top of this board [koruza-hs-flex](https://github.com/IRNAS/koruza-hs-flex) PCB is placed, and it connects to it using header pins. The ground signal is connected thrue the cage pins. 
+On top of this board [koruza-hs-flex](https://github.com/IRNAS/koruza-hs-flex) PCB is placed, and it connects to it using header pins. The ground signal is connected thru the cage pins. 
 
 This board is in development and testing phase, for all information see the [schematic PDF file](https://github.com/IRNAS/koruza-hs-rigid/blob/master/koruza-hs-rigid-PCB/Project%20Outputs%20for%20koruza-hs-rigid-PCB/koruza-hs-rigid-PCB.PDF).
 
