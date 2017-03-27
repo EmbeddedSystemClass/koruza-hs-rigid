@@ -1,0 +1,12 @@
+Designator,Value,Description,Comment,Footprint,Quantity,Supplier 1,Supplier Part Number 1,Supplier 2,Supplier Part Number 2
+
+"R3, R4, R5, R6, R7, R8, R9, R10, R11, R12, R13, R14, R15, R16, R17, R18","0R","Resistor","0R","RES0603","16","","","",""
+"L1, L2, L3, L4","1uH","Inductor","1uH","6-0805_N","4","","","",""
+"C1, C2, C5, C6, C7, C8","10uF","Polarized Capacitor (Radial)","10uF","CAP0805","6","","","",""
+"C3, C4, C9, C10, C11, C12","100nF","Capacitor","100nF","CAP0603","6","","","",""
+"R1, R2","470R","Resistor","470R","RES0603","2","","","",""
+"P2","","Header, 6-Pin, Dual row","Header 6X2A","HDR2X6_CEN","1","","","",""
+"P1","","Header, 9-Pin, Dual row","Header 9X2A","HDR2X9_CEN","1","","","",""
+"D1, D2","","Typical INFRARED GaAs LED","LED0","DIODE0603","2","","","",""
+"U1","","Single Output LDO, 800 mA, Adjustable 1.5 to 13.5 V Output, 3.8 to 15 V Input, with Internal Current Limiting, 4-pin SOT-223 (DCY), -40 to 125 degC, Green (RoHS & no Sb/Br)","REG1117","TI-DCY4_N","1","Digi-Key","REG1117-ND","Farnell","1097566"
+"SFP1","","","SFP connector","PCB_SFP_COVER","1","","","",""

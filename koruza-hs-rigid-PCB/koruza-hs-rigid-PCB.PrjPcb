@@ -30,7 +30,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for koruza-hs-rigid-PCB
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 
@@ -196,7 +196,7 @@ Variant=[No Variations]
 OutputJobsCount=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for koruza-hs-rigid-PCB
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
