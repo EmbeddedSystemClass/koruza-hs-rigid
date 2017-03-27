@@ -10,9 +10,10 @@ This board is in development and testing phase, for all information see the [sch
 
 **Latest release: [v0.2](https://github.com/IRNAS/koruza-hs-rigid/releases/tag/v0.2)**
 
-All comments and suggestions can be added to the [Issues](https://github.com/IRNAS/koruza-hs-rigid/issues) section of the repo. For additional details see the Issue section or contact me at vojislav@irnas.eu
-
+All comments and suggestions can be added to the [Issues](https://github.com/IRNAS/koruza-hs-rigid/issues) section of the repo. For additional details see the Issue section.
+![alt tag](https://github.com/IRNAS/koruza-hs-rigid/blob/master/Pics/img20170327153304_33681000905_o.jpg)
 ![alt tag](https://github.com/IRNAS/koruza-hs-rigid/blob/master/Pics/3D_model.png)
+
 
 ---
 
